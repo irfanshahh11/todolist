@@ -1,4 +1,4 @@
-# futsal-booking
+# todolist App
 
 ## Project setup
 ```
